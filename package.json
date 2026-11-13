@@ -1,0 +1,16 @@
+{
+  "name": "student-course-api",
+  "version": "1.0.0",
+  "description": "A simple REST API prototype for student course information.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
